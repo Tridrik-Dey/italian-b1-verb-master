@@ -1,0 +1,9 @@
+node_modules
+dist
+*.tsbuildinfo
+test-results
+playwright-report
+.DS_Store
+
+# Textbook vocabulary (copyright): kept local only
+src/data/vocabulary/italian_vocabulary.json

@@ -1,0 +1,62 @@
+{
+  "title": "Sample vocabulary",
+  "source": "Self-written sample. The full textbook vocabulary is not included for copyright reasons.",
+  "batches": [
+    {
+      "id": "b1",
+      "number": 1,
+      "title": "Batch 1",
+      "subBatches": [
+        {
+          "id": "b1-s1",
+          "title": "A casa (At home)",
+          "unit": "Sample",
+          "words": [
+            { "id": "b1-s1-w1", "it": "la cucina", "en": "the kitchen" },
+            { "id": "b1-s1-w2", "it": "il tavolo", "en": "the table" },
+            { "id": "b1-s1-w3", "it": "la finestra", "en": "the window" },
+            { "id": "b1-s1-w4", "it": "il divano", "en": "the sofa" },
+            { "id": "b1-s1-w5", "it": "la camera da letto", "en": "the bedroom" },
+            { "id": "b1-s1-w6", "it": "il bagno", "en": "the bathroom" },
+            { "id": "b1-s1-w7", "it": "la sedia", "en": "the chair" },
+            { "id": "b1-s1-w8", "it": "il frigorifero", "en": "the fridge" },
+            { "id": "b1-s1-w9", "it": "le chiavi", "en": "the keys" },
+            { "id": "b1-s1-w10", "it": "il balcone", "en": "the balcony" },
+            { "id": "b1-s1-w11", "it": "la lampada", "en": "the lamp" },
+            { "id": "b1-s1-w12", "it": "lo specchio", "en": "the mirror" }
+          ],
+          "phrases": [
+            { "id": "b1-s1-p1", "it": "Dove sono le chiavi?", "en": "Where are the keys?" },
+            { "id": "b1-s1-p2", "it": "Apri la finestra, per favore.", "en": "Open the window, please." },
+            { "id": "b1-s1-p3", "it": "La cena è pronta.", "en": "Dinner is ready." },
+            { "id": "b1-s1-p4", "it": "Mi siedo sul divano.", "en": "I sit on the sofa." }
+          ]
+        },
+        {
+          "id": "b1-s2",
+          "title": "In città (In town)",
+          "unit": "Sample",
+          "words": [
+            { "id": "b1-s2-w1", "it": "la stazione", "en": "the station" },
+            { "id": "b1-s2-w2", "it": "la piazza", "en": "the square" },
+            { "id": "b1-s2-w3", "it": "il biglietto", "en": "the ticket" },
+            { "id": "b1-s2-w4", "it": "la fermata", "en": "the stop" },
+            { "id": "b1-s2-w5", "it": "il mercato", "en": "the market" },
+            { "id": "b1-s2-w6", "it": "la farmacia", "en": "the pharmacy" },
+            { "id": "b1-s2-w7", "it": "il semaforo", "en": "the traffic light" },
+            { "id": "b1-s2-w8", "it": "il marciapiede", "en": "the pavement" },
+            { "id": "b1-s2-w9", "it": "la via", "en": "the street" },
+            { "id": "b1-s2-w10", "it": "il museo", "en": "the museum" }
+          ],
+          "phrases": [
+            { "id": "b1-s2-p1", "it": "A che ora parte il treno?", "en": "What time does the train leave?" },
+            { "id": "b1-s2-p2", "it": "Scendo alla prossima fermata.", "en": "I get off at the next stop." },
+            { "id": "b1-s2-p3", "it": "Il museo è chiuso il lunedì.", "en": "The museum is closed on Mondays." },
+            { "id": "b1-s2-p4", "it": "Giri a destra al semaforo.", "en": "Turn right at the traffic light." }
+          ]
+        }
+      ]
+    }
+  ],
+  "counts": { "words": 22, "phrases": 8 }
+}
